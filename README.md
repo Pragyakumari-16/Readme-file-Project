@@ -13,4 +13,11 @@ Once the basic HTML structure of the form fields is in place, the next step is t
 ![image](https://github.com/Pragyakumari-16/Readme-file-Project/assets/158126030/29d9ec84-8258-4d4e-9143-1f852c01210e)
 ![image](https://github.com/Pragyakumari-16/Readme-file-Project/assets/158126030/579e3c6c-5240-4ed2-ab56-2d317876be52)
 
+tep 3 (JavaScript Code):
+
+The final step in creating dynamic form fields using HTML, CSS, and JavaScript is to add and remove form fields dynamically using JavaScript. JavaScript allows us to create dynamic and interactive elements on the website.Adding form fields with JavaScript is a straightforward process. First, you need to create a new form field element using the document.createElement method. Next, you need to set the properties of this element, such as its type, name, and value. Finally, you need to add the element to your form using the appendChild method.Removing form fields with JavaScript is just as easy as adding them. To remove a form field, you simply need to find the element you want to remove and use the removeChild method to remove it from the form.Create a JavaScript file with the name of script.js and paste the given codes into your JavaScript file and make sure it's linked properly to your HTML document, so that the scripts are executed on the page.
+![image](https://github.com/Pragyakumari-16/Readme-file-Project/assets/158126030/8442d125-0006-46bf-8617-b8ad97bb3a37)
+
+
+Final Output:Link:-http://127.0.0.1:5500/index.html?#
 
